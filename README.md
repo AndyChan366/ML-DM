@@ -1,5 +1,5 @@
 # ML-DM
-This is the homework of Machine Learning and Data Mining.
+This is the homework of Machine Learning and Data Mining in SYSU.
 
 Teacher: **Xiaojun Quan**
 
